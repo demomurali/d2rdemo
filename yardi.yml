@@ -8,7 +8,7 @@ yardi:
   passsword: passValue
   username: userValue 
   CollectionsAgency: agencyname
-  YardiPropertyId: doubt
+  YardiPropertyId: 5645646
  thirdPartyApi:    
       Get_CollectionsLeaseInfo: 
            header: <Get_CollectionsLeaseInfo xmlns="http://tempuri.org/YSI.Interfaces.WebServices/ItfCollections">
